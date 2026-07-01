@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Savan305/my-practice/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/Savan305/my-practice/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Savan305/my-practice/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Savan305/my-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0904-fruit-into-baskets](https://github.com/Savan305/my-practice/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
@@ -18,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Savan305/my-practice/tree/master/0142-linked-list-cycle-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Savan305/my-practice/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
