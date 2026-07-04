@@ -1,13 +1,21 @@
 class Solution:
     def findErrorNums(self, nums: List[int]) -> List[int]:
-        seen = set()
-        duplicate = -1
+        n = len(nums)
 
+        freq = [0] * (n + 1)
+
+        # Count the frequency of each number
         for num in nums:
-            if num in seen:
-                duplicate = num
-            seen.add(num)
+            freq[num] += 1
 
-        for i in range(1, len(nums) + 1):
-            if i not in seen:
-                return [duplicate, i]
+        duplicate = 0
+        missing = 0
+
+        # Find the duplicate and missing number
+        for i in range(1, n + 1):
+            if freq[i] == 2:
+                duplicate = i
+            elif freq[i] == 0:
+                missing = i
+
+        return [duplicate, missing]
