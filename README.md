@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Savan305/my-practice/tree/master/1441-build-an-array-with-stack-operations) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Savan305/my-practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
