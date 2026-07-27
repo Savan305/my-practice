@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Savan305/my-practice/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Savan305/my-practice/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Savan305/my-practice/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Savan305/my-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Savan305/my-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Savan305/my-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Savan305/my-practice/tree/master/1470-shuffle-the-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Savan305/my-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Savan305/my-practice/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Savan305/my-practice/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Savan305/my-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Savan305/my-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Savan305/my-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Savan305/my-practice/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Savan305/my-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
