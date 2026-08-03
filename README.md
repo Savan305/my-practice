@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Savan305/my-practice/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Savan305/my-practice/tree/master/0009-palindrome-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Savan305/my-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Database
 |  |
