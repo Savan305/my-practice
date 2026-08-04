@@ -16,4 +16,3 @@ nums = [1,1,1,2,2,3]
 sol = Solution()
 answer = sol.removeDuplicates(nums)
 print(answer)
-        
