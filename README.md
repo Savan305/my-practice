@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Savan305/my-practice/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Savan305/my-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/Savan305/my-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Savan305/my-practice/tree/master/0057-insert-interval) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Savan305/my-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Savan305/my-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Savan305/my-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Savan305/my-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Savan305/my-practice/tree/master/0142-linked-list-cycle-ii) |
