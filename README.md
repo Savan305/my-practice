@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Savan305/my-practice/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Savan305/my-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Savan305/my-practice/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Savan305/my-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Savan305/my-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Savan305/my-practice/tree/master/0009-palindrome-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Savan305/my-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Savan305/my-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Savan305/my-practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
