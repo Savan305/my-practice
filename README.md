@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Savan305/my-practice/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Savan305/my-practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Savan305/my-practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/Savan305/my-practice/tree/master/0986-interval-list-intersections) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Savan305/my-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Savan305/my-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Savan305/my-practice/tree/master/1470-shuffle-the-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Savan305/my-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Savan305/my-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Savan305/my-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0986-interval-list-intersections](https://github.com/Savan305/my-practice/tree/master/0986-interval-list-intersections) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Savan305/my-practice/tree/master/0002-add-two-numbers) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Savan305/my-practice/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
