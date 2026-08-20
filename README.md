@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Savan305/my-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Savan305/my-practice/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Savan305/my-practice/tree/master/1929-concatenation-of-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Savan305/my-practice/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Savan305/my-practice/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Savan305/my-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Savan305/my-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Savan305/my-practice/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Linked List
 |  |
 | ------- |
