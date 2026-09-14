@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Savan305/my-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Savan305/my-practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Savan305/my-practice/tree/master/0012-integer-to-roman) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Savan305/my-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Savan305/my-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Database
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Savan305/my-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Savan305/my-practice/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Savan305/my-practice/tree/master/0125-valid-palindrome) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Savan305/my-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Savan305/my-practice/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Savan305/my-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Savan305/my-practice/tree/master/0986-interval-list-intersections) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Savan305/my-practice/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Savan305/my-practice/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
