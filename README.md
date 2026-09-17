@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Savan305/my-practice/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/Savan305/my-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Savan305/my-practice/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Savan305/my-practice/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Savan305/my-practice/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Savan305/my-practice/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Savan305/my-practice/tree/master/0904-fruit-into-baskets) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Savan305/my-practice/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Savan305/my-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
