@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Savan305/my-practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Savan305/my-practice/tree/master/0986-interval-list-intersections) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Savan305/my-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Savan305/my-practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Savan305/my-practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Savan305/my-practice/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Savan305/my-practice/tree/master/1929-concatenation-of-array) |
